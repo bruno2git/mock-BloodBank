@@ -29,7 +29,7 @@ Apesar de não ter aplicação no mundo real, isto foi feito com muito :heart: e
 Na verdade, não usámos uma base de dados (daí a parte "simulado"), pois ainda não tínhamos estudado bases de dados na época. :satisfied:\
 Em vez disso, o programa recorre a arquivos CSV.
 
-Isto foi feito em 2013/2014 como parte de um trabalho de grupo da disciplina "Introdução a Algoritmos e à Programação" do Mestrado em Bioinformática da Universidade do Minho.
+Isto foi feito em 2013/2014 como parte de um trabalho de grupo da disciplina "Introdução aos Algoritmos e à Programação" do Mestrado em Bioinformática da Universidade do Minho.
 
 Para usá-lo, corra [Main.py](Main.py) ou o executável [BloodBankDB.exe](BloodBankEXE/BloodBankDB.exe) (Windows apenas).\
 Nota: As mensagens da interface são escritas em Português mas as informações sobre o código-fonte estão em Inglês.
