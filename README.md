@@ -40,5 +40,5 @@ Nota: As mensagens da interface são escritas em Português mas as informações
 * Dora Henriques
 * Sara Martins
 
-### AVISO LEGAL
+### AVISO
 Os dados contidos nos ficheiros da "base de dados" foram gerados aleatoriamente em www.generatedata.com e não são reais.
