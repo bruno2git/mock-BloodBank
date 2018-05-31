@@ -6,7 +6,8 @@ While this has no real-world application, it was made with a lot of :heart: and 
 We didn't actually use a database (hence the "mock" part) since we hadn't yet studied databases at the time. :satisfied:\
 Instead the program resorts to CSV files.
 
-This was made in 2013/2014 as part of a group assignment from the "Introduction to Algorithms and Programming" class of the Bioinformatics Master course, at University of Minho (Portugal).
+This was made in 2013/2014 as part of a group assignment from the "Introduction to Algorithms and Programming" class of the Bioinformatics Master course, at University of Minho (Portugal).\
+It is written in Python 2.7 and resorts only to packages from the Python Standard Library (`os`, `shutil`, `datetime`, `calendar`, `random` and `re`).
 
 To use it, run [Main.py](Main.py) or the executable [BloodBankDB.exe](BloodBankEXE/BloodBankDB.exe) (Windows only).\
 Note: The interface messages are written in Portuguese but the information on the source code is in English.
@@ -29,7 +30,8 @@ Apesar de não ter aplicação no mundo real, isto foi feito com muito :heart: e
 Na verdade, não usámos uma base de dados (daí a parte "simulado"), pois ainda não tínhamos estudado bases de dados na época. :satisfied:\
 Em vez disso, o programa recorre a arquivos CSV.
 
-Isto foi feito em 2013/2014 como parte de um trabalho de grupo da disciplina "Introdução aos Algoritmos e à Programação" do Mestrado em Bioinformática da Universidade do Minho.
+Isto foi feito em 2013/2014 como parte de um trabalho de grupo da disciplina "Introdução aos Algoritmos e à Programação" do Mestrado em Bioinformática da Universidade do Minho.\
+Está escrito em Python 2.7 e recorre apenas a pacotes da Biblioteca Padrão do Python (`os`, `shutil`, `datetime`, `calendar`, `random` e `re`).
 
 Para usá-lo, corra [Main.py](Main.py) ou o executável [BloodBankDB.exe](BloodBankEXE/BloodBankDB.exe) (Windows apenas).\
 Nota: As mensagens da interface são escritas em Português mas as informações sobre o código-fonte estão em Inglês.
