@@ -1,6 +1,6 @@
 # mock-BloodBank [EN]
 
-This is a 'mock Blood Bank' managing app with a simple user interface.\
+This is a (mock) Blood Bank managing app with a simple user interface.\
 While this has no real-world application, it was made with a lot of :heart: and attention to detail by a group of students (myself included) who had started learning code and Python just a few months earlier. :blush:
 
 We didn't actually use a database (hence the "mock" part) since we hadn't yet studied databases at the time. :satisfied:\
@@ -23,7 +23,7 @@ ________________________________________________
 
 # mock-BloodBank [PT]
 
-Isto é um aplicativo de gestão de 'Banco de Sangue simulado' com uma simples interface com o utilizador.\
+Isto é um aplicativo de gestão de Banco de Sangue (simulado) com uma simples interface com o utilizador.\
 Apesar de não ter aplicação no mundo real, isto foi feito com muito :heart: e atenção aos detalhes por um grupo de estudantes (eu incluído) que tinham começado a aprender código e Python apenas alguns meses antes. :blush:
 
 Na verdade, não usámos uma base de dados (daí a parte "simulado"), pois ainda não tínhamos estudado bases de dados na época. :satisfied:\
