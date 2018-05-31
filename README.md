@@ -1,4 +1,4 @@
-# mockBloodBank [EN]
+# mock-BloodBank [EN]
 
 This is a 'mock Blood Bank' managing app with a simple user interface.\
 While this has no real-world application, it was made with a lot of :heart: and attention to detail by a group of students (myself included) who had started learning code and Python just a few months earlier. :blush:
@@ -21,7 +21,7 @@ Note: The interface messages are written in Portuguese but the information on th
 The data contained in the "database" files was randomly generated at www.generatedata.com and it is not real.
 ________________________________________________
 
-# mockBloodBank [PT]
+# mock-BloodBank [PT]
 
 Isto é um aplicativo de gestão de 'Banco de Sangue simulado' com uma simples interface com o utilizador.\
 Apesar de não ter aplicação no mundo real, isto foi feito com muito :heart: e atenção aos detalhes por um grupo de estudantes (eu incluído) que tinham começado a aprender código e Python apenas alguns meses antes. :blush:
